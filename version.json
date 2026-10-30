@@ -1,13 +1,13 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.5",
-  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.5.apk",
+  "versionCode": 15,
+  "versionName": "1.4.7",
+  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.7.apk",
   "mirrors": [
-    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.5.apk",
-    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.5/app-1.4.5.apk"
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.7.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.7/app-1.4.7.apk"
   ],
-  "md5": "c266de583e99d96d6ba4c841fd0b7354",
-  "size": 8715357,
-  "changelog": "1.4.5：安装器自动点击限定 packageinstaller 包名（修复误点锁屏通知）；多源测速下载",
+  "md5": "bc548c64c39224415addf7868b3dd284",
+  "size": 8717221,
+  "changelog": "1.4.7：安装器无文字按钮位置兜底识别；多源测速下载",
   "force": false
 }
