@@ -1,0 +1,9 @@
+{
+  "versionCode": 6,
+  "versionName": "1.3.0",
+  "url": "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.3.0/app-1.3.0.apk",
+  "md5": "ec714c645a64cbb6d33973b31ccbb7b6",
+  "size": 8705437,
+  "changelog": "1.3.0：控制面板显示版本号；云端推送更新（自动检查→下载→唤起安装→无障碍自动点安装）；新增 /api/update 接口",
+  "force": false
+}
