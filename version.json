@@ -1,9 +1,12 @@
 {
-  "versionCode": 7,
-  "versionName": "1.3.1",
-  "url": "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.3.1/app-1.3.1.apk",
-  "md5": "ca92f2b859e02ae7e3118bd6e53717ad",
-  "size": 8706917,
-  "changelog": "1.3.1：验证云端推送自动升级链路",
+  "versionCode": 8,
+  "versionName": "1.4.0",
+  "mirrors": [
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.0.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.0/app-1.4.0.apk"
+  ],
+  "md5": "12be275dbb321b420c0492a94178c623",
+  "size": 8714149,
+  "changelog": "1.4.0：多源测速下载（mirrors 数组）——云端改镜像即可换托管商，无需更新 APK；新增自动更新开关与更新状态显示",
   "force": false
 }
