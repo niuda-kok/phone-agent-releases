@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "1.4.9",
-  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.9.apk",
+  "versionCode": 18,
+  "versionName": "1.5.0",
+  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.0.apk",
   "mirrors": [
-    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.9.apk",
-    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.9/app-1.4.9.apk"
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.0.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.5.0/app-1.5.0.apk"
   ],
-  "md5": "15c7c0107c85f46adeb8c35cd2a26ab2",
+  "md5": "6b9c83be12cb7589598ee6ddbd8773a7",
   "size": 8717649,
-  "changelog": "1.4.9：安装器自绘按钮按坐标兜底点击（OPPO 无障碍树无 text/clickable）",
+  "changelog": "1.5.0：安装器自绘按钮坐标兜底；多源测速下载稳定版",
   "force": false
 }
