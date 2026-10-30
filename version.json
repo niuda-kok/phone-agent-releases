@@ -1,13 +1,13 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
-  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.0.apk",
+  "versionCode": 9,
+  "versionName": "1.4.1",
+  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.1.apk",
   "mirrors": [
-    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.0.apk",
-    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.0/app-1.4.0.apk"
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.1.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.1/app-1.4.1.apk"
   ],
-  "md5": "12be275dbb321b420c0492a94178c623",
-  "size": 8714149,
-  "changelog": "1.4.0：多源测速下载（mirrors 数组）——云端改镜像即可换托管商，无需更新 APK；新增自动更新开关与更新状态显示",
+  "md5": "2903a5e1830a9186091bf32d263ee640",
+  "size": 8714145,
+  "changelog": "1.4.1：验证多源测速升级（CloudBase + GitHub 双源）",
   "force": false
 }
