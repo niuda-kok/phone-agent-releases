@@ -1,13 +1,13 @@
 {
-  "versionCode": 20,
-  "versionName": "1.5.2",
-  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.2.apk",
+  "versionCode": 23,
+  "versionName": "1.5.5",
+  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.5.apk",
   "mirrors": [
-    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.2.apk",
-    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.5.2/app-1.5.2.apk"
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.5.5.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.5.5/app-1.5.5.apk"
   ],
-  "md5": "1ad5800d41ff0f6ca1a7c9ad711780b7",
-  "size": 8717709,
-  "changelog": "1.5.2：修复 dispatchGesture 在 IO 线程静默失败（手势需主线程 Handler）——自动点击安装按钮终于可用",
+  "md5": "da0590599bf3ca3e5552f2f42dfd472c",
+  "size": 8717741,
+  "changelog": "1.5.5：安装器空节点时仍走坐标兜底点击",
   "force": false
 }
