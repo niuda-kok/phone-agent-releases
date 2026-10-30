@@ -1,13 +1,13 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.3",
-  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.3.apk",
+  "versionCode": 13,
+  "versionName": "1.4.5",
+  "url": "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.5.apk",
   "mirrors": [
-    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.3.apk",
-    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.3/app-1.4.3.apk"
+    "https://my1st-d9g6nk6x5d7dcde96-1253487365.tcloudbaseapp.com/phoneagent/app-1.4.5.apk",
+    "https://github.com/niuda-kok/phone-agent-releases/releases/download/v1.4.5/app-1.4.5.apk"
   ],
-  "md5": "c9361521630b8e8db298badbf86a72f0",
-  "size": 8715253,
-  "changelog": "1.4.3：修复按钮检查更新时的 NetworkOnMainThreadException；多源测速下载",
+  "md5": "c266de583e99d96d6ba4c841fd0b7354",
+  "size": 8715357,
+  "changelog": "1.4.5：安装器自动点击限定 packageinstaller 包名（修复误点锁屏通知）；多源测速下载",
   "force": false
 }
